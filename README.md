@@ -6,9 +6,9 @@
 - [ Project Overview]( #project-overview)
 - [Data Sources](#data-sources)
 - [ Tools](#tools)
-- [Data Cleaning/Preparation](data-cleaning/preparation)
-- [KPI](kpi)
-- [Results/Findings](results/findings)
+- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [KPI](#kpi)
+- [Results/Findings](#results/findings)
 
 
 ### Project Overview
