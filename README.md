@@ -15,3 +15,7 @@ This bank analytics project aims to provide insights into the overall performanc
 In this analysis two data sets were used which contained detailed information about the bank.
 - "Finance_1.csv"
 - "Finance_2.csv"
+### Tools
+- Excel - Data Cleaning
+- MySQL - Data Analysis
+- Power BI - Creatin Reports
