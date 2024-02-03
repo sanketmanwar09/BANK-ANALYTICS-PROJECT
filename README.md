@@ -7,7 +7,7 @@
 - [Data Sources](#data-sources)
 - [ Tools](#tools)
 - [Data Cleaning/Preparation](data-cleaning/preparation)
-- [KPIs](kpis)
+- [KPI](kpi)
 - [Results/Findings](results/findings)
 
 
@@ -35,7 +35,7 @@ In the initial data preparation phase , we performed the following tasks:
 2. Handling missing values
 3. Data cleaning and formatting
 
-### KPIs
+### KPI
 1. Year wise loan amount stats
 2. Grade and sub-grade wise revol_bal
 3. Total payment for verified status vs total payment for non-verified status
