@@ -20,6 +20,7 @@ In this analysis two data sets were used which contained detailed information ab
 - MySQL - Data Analysis
 - Power BI - Creatin Reports
 
+
 ### Data Cleaning/Preparation
 
 In the initial data preparation phase , we performed the following tasks:
@@ -39,10 +40,15 @@ In the initial data preparation phase , we performed the following tasks:
 
 ### Results/Findings
 The analysis results are summarized as follows:
--Loan amount was highest in the year 2013(104 Mn) followed by 2014(99Mn),2012(97Mn),2011(51Mn),2015(35Mn),2016(33Mn),2009(6Mn) and 2008(1Mn)
--Out of the total revol_bal, Grade B has the highest(131Mn) followed by Grade A(115 Mn), Grade C(110 Mn), Grade D(75 Mn),Grade E(19 Mn) and Grade F(7 Mn).
--Out of Total accounts 68.19% are Verified (326.19 Mn) and 31.81% are Non-Verified (154.55 Mn).
--Out of 39717 records for home_ownership ,39,646 are registered. Out of this record , maximum people live on Rental basis(18847) followed by Mortgage(17645), Own(3053), Other(95) and None(3).
--Out of Total $446 Mn Loan Amount , 358 Mn is fully paid, 68 Mn is charged off and the current status is 19 Mn.
+- Loan amount was highest in the year 2013(104 Mn) followed by 2014(99Mn),2012(97Mn),2011(51Mn),2015(35Mn),2016(33Mn),2009(6Mn) and 2008(1Mn)
+- Out of Total accounts 68.19% are Verified (326.19 Mn) and 31.81% are Non-Verified(154.55 Mn)
+- Out of the total revol_bal, Grade B has the highest(131Mn) followed by Grade A(115 Mn), Grade C(110 Mn), Grade D(75 Mn),Grade E(19 Mn) and Grade F(7 Mn)
+- Out of 39717 records for home_ownership ,39,646 are registered. Out of this record , maximum people live on Rental basis(18847) followed by Mortgage(17645), Own(3053),    Other(95) and None(3)
+- Out of Total $446 Mn Loan Amount , 358 Mn is fully paid, 68 Mn is charged off and the current status is 19 Mn.
+
+
+
+  
+
 
 
