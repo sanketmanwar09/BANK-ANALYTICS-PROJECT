@@ -6,9 +6,9 @@
 - [ Project Overview]( #project-overview)
 - [Data Sources](#data-sources)
 - [ Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Data Cleaning](#data-cleaning)
 - [KPI](#kpi)
-- [Results/Findings](#results/findings)
+- [Findings](#findings)
 
 
 ### Project Overview
@@ -28,7 +28,7 @@ In this analysis two data sets were used which contained detailed information ab
 - Power BI - Creatin Reports
 
 
-### Data Cleaning/Preparation
+### Data Cleaning
 
 In the initial data preparation phase , we performed the following tasks:
 1. Data loading and inspection
@@ -45,7 +45,7 @@ In the initial data preparation phase , we performed the following tasks:
 7. State wise customers
 8. Average interest rate and total loan amount
 
-### Results/Findings
+### Findings
 The analysis results are summarized as follows:
 - Loan amount was highest in the year 2013(104 Mn) followed by 2014(99Mn),2012(97Mn),2011(51Mn),2015(35Mn),2016(33Mn),2009(6Mn) and 2008(1Mn)
 - Out of Total accounts 68.19% are Verified (326.19 Mn) and 31.81% are Non-Verified(154.55 Mn)
