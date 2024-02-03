@@ -1,7 +1,7 @@
 # Bank Analytics 
 
 ![](bankimage.jpg)
-![](Screenshot(143).png)
+
 
 ## Table of Contents
 ---
@@ -185,6 +185,9 @@ FROM
 POWER BI
 
 ```
+HOME_OWNERSHIP          |  REVOL_BAL
+:----------------------:|:-----------------:
+![](home_ownership.jpg) | ![](revol_bal.jpg)
 
 
 
