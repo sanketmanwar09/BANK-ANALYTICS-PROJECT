@@ -1,6 +1,7 @@
 # Bank Analytics 
 
 ![](bankimage.jpg)
+![](Screenshot(143).png)
 
 ## Table of Contents
 ---
@@ -182,8 +183,9 @@ FROM
 
 ```
 POWER BI
-![]()
+
 ```
+
 
 
 
