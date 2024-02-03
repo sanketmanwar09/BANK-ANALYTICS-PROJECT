@@ -180,6 +180,11 @@ FROM
 ;
 ```
 
+```
+POWER BI
+![]()
+```
+
 
 
 
@@ -193,6 +198,7 @@ The analysis results are summarized as follows:
 - Out of Total $446 Mn Loan Amount , 358 Mn is fully paid, 68 Mn is charged off and the current status is 19 Mn.
 - Top 5 purposes for loan were debt_consolidation(2366 Mn) followed by home_improvement(343.35 Mn),other(322.14 Mn),small_business(248.01 Mn) and major_purchase(178.36 Mn)
 - Top 5 state wise total_customers were CA(7099) followed BY NY(3812),FL(2866),TX(2727) and NJ(1850).
+  
 
 
 
