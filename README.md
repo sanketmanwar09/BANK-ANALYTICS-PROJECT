@@ -3,6 +3,7 @@
 ![](bankimage.jpg)
 
 ## Table of Contents
+---
 - [ Project Overview]( #project-overview)
 - [Data Sources](#data-sources)
 - [ Tools](#tools)
@@ -18,17 +19,20 @@ This bank analytics project aims to provide insights into the overall performanc
 
 
 ### Data Sources
+---
 
 In this analysis two data sets were used which contained detailed information about the bank.
 - "Finance_1.csv"
 - "Finance_2.csv"
 ### Tools
+---
 - Excel - Data Cleaning
 - MySQL - Data Analysis
 - Power BI - Creatin Reports
 
 
 ### Data Cleaning
+---
 
 In the initial data preparation phase , we performed the following tasks:
 1. Data loading and inspection
@@ -36,6 +40,7 @@ In the initial data preparation phase , we performed the following tasks:
 3. Data cleaning and formatting
 
 ### KPI
+---
 1. Year wise loan amount stats
 2. Grade and sub-grade wise revol_bal
 3. Total payment for verified status vs total payment for non-verified status
@@ -46,6 +51,7 @@ In the initial data preparation phase , we performed the following tasks:
 8. Average interest rate and total loan amount
 
 ### Data Analysis
+---
 - Loan amount was highest in the year 2013(104 Mn) followed by 2014(99Mn),2012(97Mn),2011(51Mn),2015(35Mn),2016(33Mn),2009(6Mn) and 2008(1Mn)
 - Out of the total revol_bal, Grade B has the highest(131Mn) followed by Grade A(115 Mn), Grade C(110 Mn), Grade D(75 Mn),Grade E(48 Mn),Grade F(19 Mn)and Grade G(7 Mn)
 - Out of 39717 records for home_ownership ,39,646 are registered. Out of this record , maximum people live on Rental basis(18847) followed by Mortgage(17645),        Own(3053),Other(95) and None(3)
