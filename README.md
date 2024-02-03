@@ -46,6 +46,19 @@ In the initial data preparation phase , we performed the following tasks:
 8. Average interest rate and total loan amount
 
 ### Data Analysis
+ KPI 1 : YEAR WISE LOAN AMOUNT STATS
+SELECT 
+    YEAR(last_pymnt_d) AS Year,
+    CONCAT('$ ',
+            ROUND(SUM(loan_amnt) / 100000, 2),
+            ' Mn') AS Loan_amount
+FROM
+    finance_1
+        JOIN
+    finance_2 ON finance_1.id = finance_2.id
+GROUP BY Year;
+--
+
 
 
 ### Findings
