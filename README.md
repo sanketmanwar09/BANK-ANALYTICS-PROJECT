@@ -1,5 +1,7 @@
 # Bank Analytics 
 
+![](bankimage.jpg)
+
 ## Table of Contents
 
 ### Project Overview
