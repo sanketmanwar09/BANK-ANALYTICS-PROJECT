@@ -11,4 +11,4 @@ This bank analytics project aims to provide insights into the overall performanc
 ### Data Sources
 
 In this analysis two data sets were used which contained detailed information about the bank.
-- 
+- https://github.com/sanketmanwar09/BANK-ANALYTICS-PROJECT/blob/main/Finance_1.csv
