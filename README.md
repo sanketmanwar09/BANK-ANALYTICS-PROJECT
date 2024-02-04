@@ -10,6 +10,7 @@
 - [ Tools](#tools)
 - [Data Cleaning](#data-cleaning)
 - [KPI](#kpi)
+- [Data Analysis](#data-analysis)
 - [Findings](#findings)
 
 
