@@ -190,6 +190,11 @@ HOME_OWNERSHIP          |  REVOL_BAL
 ![](home_ownership.jpg) | ![](revol_bal.jpg)
 
 
+HOME_OWNERSHIP          |  REVOL_BAL
+:----------------------:|:-----------------:
+![](loan_status.jpg) | ![](revol_bal.jpg)
+
+
 
 
 
