@@ -61,27 +61,6 @@ In the initial data preparation phase , we performed the following tasks:
 - Out of Total accounts 68.19% are Verified (326.19 Mn) and 31.81% are Non-Verified(154.55 Mn)
 
 
-
-
-.
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
 ## KPI 1 : YEAR WISE LOAN AMOUNT STATS
 SELECT 
@@ -191,9 +170,9 @@ HOME_OWNERSHIP          |  REVOL_BAL
 ![](home_ownership.jpg) | ![](revol_bal.jpg)
 
 
-HOME_OWNERSHIP          |  REVOL_BAL
+LOAN_STATUS             | AFTER FILTERS
 :----------------------:|:-----------------:
-![](loan_status.jpg) | ![](revol_bal.jpg)
+![](loan_status.jpg) | ![](After%20applying%20slicers.jpg)
 
 
 
